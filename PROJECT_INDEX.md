@@ -3,7 +3,7 @@
 - Project ID: portfolio-spa-20260328151812
 - Runtime status: blocked
 - Tasks: 6
-- Files: 1
+- Files: 2
 
 ## Task Map
 
@@ -15,11 +15,12 @@
   - projects/test-multi-agemt/design/T-001/spec.md
 
 ### T-002 - Implementar sección Hero
-- Agent: pixel
-- Status: error
+- Agent: byte
+- Status: done
 - Skill family: vanilla-frontend
-- Next action: retry_or_reassign
-- Files: none
+- Next action: reassigned_to_byte
+- Files:
+  - projects/test-multi-agemt/index.html
 
 ### T-003 - Implementar sección Proyectos con tarjetas
 - Agent: pixel
@@ -50,3 +51,4 @@
 ## Unified Files
 
 - projects/test-multi-agemt/design/T-001/spec.md  (T-001)
+- projects/test-multi-agemt/index.html  (T-002)
