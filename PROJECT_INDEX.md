@@ -1,36 +1,38 @@
 # portfolio-spa
 
 - Project ID: portfolio-spa-20260328151812
-- Runtime status: running
+- Runtime status: blocked
 - Tasks: 6
 - Files: 1
 
 ## Task Map
 
 ### T-001 - Crear estructura HTML5 con Tailwind CSS
-- Agent: byte
+- Agent: pixel
 - Status: done
 - Skill family: vanilla-frontend
-- Next action: reassigned_to_byte
 - Files:
-  - projects/test-multi-agemt/js/storage.js
+  - projects/test-multi-agemt/design/T-001/spec.md
 
 ### T-002 - Implementar sección Hero
 - Agent: pixel
-- Status: pending
+- Status: error
 - Skill family: vanilla-frontend
+- Next action: retry_or_reassign
 - Files: none
 
 ### T-003 - Implementar sección Proyectos con tarjetas
 - Agent: pixel
-- Status: pending
+- Status: error
 - Skill family: vanilla-frontend
+- Next action: retry_or_reassign
 - Files: none
 
 ### T-004 - Implementar sección Contacto
 - Agent: pixel
-- Status: pending
+- Status: error
 - Skill family: vanilla-frontend
+- Next action: retry_or_reassign
 - Files: none
 
 ### T-005 - Implementar navegación sticky con smooth scroll
@@ -47,4 +49,4 @@
 
 ## Unified Files
 
-- projects/test-multi-agemt/js/storage.js  (T-001)
+- projects/test-multi-agemt/design/T-001/spec.md  (T-001)
